@@ -8,6 +8,8 @@ Some cool things I have built in the past:
 
 - RL for the two NP-hard problems of [container packing and vehicle routing](https://arxiv.org/abs/2307.12136)
 - Remote soil type prediction with spectral satellite data (ESA BIC, [Copernicus Masters winner](https://copernicus-masters.com/winner/audili-remote-soil-analysis/))
+
+For internship/consulting or collaboration opportunities please contact me via ss2823 [at] cam.ac.uk
   
 ![packing](https://github.com/if-loops/if-loops/assets/47212405/15fbd79a-4a97-4113-a598-0bd7155541c2)
 
