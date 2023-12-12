@@ -13,3 +13,4 @@ For internship/consulting or collaboration opportunities please contact me via s
   
 ![packing](https://github.com/if-loops/if-loops/assets/47212405/15fbd79a-4a97-4113-a598-0bd7155541c2)
 
+[![](https://visitcount.itsvg.in/api?id=if-loops&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
