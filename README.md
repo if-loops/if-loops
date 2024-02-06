@@ -1,16 +1,19 @@
-### [Hi there!](https://www.linkedin.com/in/schoepfstefan/)
+### CV at a glance
 
-I'm pursuing a PhD at the [University of Cambridge](https://www.c2d3.cam.ac.uk/directory/27081/mr-stefan-schoepf) focusing on [machine unlearning](https://arxiv.org/abs/2308.07707) and [cooperative AI](https://arxiv.org/abs/2309.04785) in industry settings. I previously worked in the Tech & Digital Advantage team of the Boston Consulting Group (BCG) in Zürich and co-founded a deep tech startup funded by the European Space Agency Business Incubator ([ESA BIC](https://commercialisation.esa.int/startups/audili-og/)).
-You can find my recent publications/preprints and work experience on my [website](https://if-loops.github.io/) or on [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmSaKaW0snOIpdKgQrC5kmuZJq7s2PKQi-A3BCJrSnTSLFb7QjmonS9IP91m64vXgXfBFcc0-MKYV78R3_jmTrb-&user=GTvLmf0AAAAJ&inst=6810896796868835251).
+- 2nd year PhD candidate at [Univ. of Cambridge](https://www.c2d3.cam.ac.uk/directory/27081/mr-stefan-schoepf) focusing on Machine Unlearning & Cooperative AI
+- Prev. associate at [BCG](https://www.bcg.com/) and co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup
 
+### Recent Publications (non-exhaustive)
 
-Some cool things I have built in the past:
+| Title  | Authorship | Venue |
+| ------------- | ------------- |  ------------- |
+| [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707)  | Equal Contrib.  |  AAAI 2024  |
+| [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://browse.arxiv.org/abs/2402.01401)  | 3rd |  Preprint  |
+| [Identifying contributors to manufacturing outcomes in a multi-echelon setting: a decentralised uncertainty quantification approach](https://arxiv.org/abs/2307.12157)  | First |  ECML PKDD 2023 Workshop  |
+| [Using Reinforcement Learning for the Three-Dimensional Loading Capacitated Vehicle Routing Problem (animation below)](https://arxiv.org/abs/2307.12136)  | First |  IJCAI 2023 Workshop  |
 
-- RL for the two NP-hard problems of [container packing and vehicle routing](https://arxiv.org/abs/2307.12136)
-- Remote soil type prediction with spectral satellite data (ESA BIC, [Copernicus Masters winner](https://copernicus-masters.com/winner/audili-remote-soil-analysis/))
-
-For internship/consulting or collaboration opportunities please contact me via ss2823 [at] cam.ac.uk
+Full Google Scholar publication list: [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmSaKaW0snOIpdKgQrC5kmuZJq7s2PKQi-A3BCJrSnTSLFb7QjmonS9IP91m64vXgXfBFcc0-MKYV78R3_jmTrb-&user=GTvLmf0AAAAJ&inst=6810896796868835251)
   
 ![packing](https://github.com/if-loops/if-loops/assets/47212405/15fbd79a-4a97-4113-a598-0bd7155541c2)
 
-[![](https://visitcount.itsvg.in/api?id=if-loops&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=if-loops&label=Profile%20views%20past%207%20days&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
