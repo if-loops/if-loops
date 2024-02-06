@@ -8,6 +8,7 @@
 | Title  | Authorship | Venue |
 | ------------- | ------------- |  ------------- |
 | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707)  | Equal Contrib.  |  AAAI 2024  |
+| Parameter-Tuning-Free Data Entry Error Unlearning with Adaptive Selective Synaptic Dampening  | First |  Preprint  |
 | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://browse.arxiv.org/abs/2402.01401)  | 3rd |  Preprint  |
 | [Identifying contributors to manufacturing outcomes in a multi-echelon setting: a decentralised uncertainty quantification approach](https://arxiv.org/abs/2307.12157)  | First |  ECML PKDD 2023 Workshop  |
 | [Using Reinforcement Learning for the Three-Dimensional Loading Capacitated Vehicle Routing Problem (animation below)](https://arxiv.org/abs/2307.12136)  | First |  IJCAI 2023 Workshop  |
