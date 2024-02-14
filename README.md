@@ -1,7 +1,9 @@
-### CV at a glance
+### CV at a glance 
 
 - 2nd year PhD candidate at [Univ. of Cambridge](https://www.c2d3.cam.ac.uk/directory/27081/mr-stefan-schoepf) focusing on Machine Unlearning & Cooperative AI
 - Prev. associate at [BCG](https://www.bcg.com/) and co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup
+
+Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/schoepfstefan/)
 
 ### Recent Publications (non-exhaustive)
 
@@ -11,7 +13,7 @@
 | [Parameter-Tuning-Free Data Entry Error Unlearning with Adaptive Selective Synaptic Dampening](https://www.researchgate.net/publication/378011802_Parameter-Tuning-Free_Data_Entry_Error_Unlearning_with_Adaptive_Selective_Synaptic_Dampening)  | First |  Preprint  |
 | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://browse.arxiv.org/abs/2402.01401)  | 3rd |  Preprint  |
 | [Identifying contributors to manufacturing outcomes in a multi-echelon setting: a decentralised uncertainty quantification approach](https://arxiv.org/abs/2307.12157)  | First |  ECML PKDD 2023 Workshop  |
-| [Using Reinforcement Learning for the Three-Dimensional Loading Capacitated Vehicle Routing Problem (animation below)](https://arxiv.org/abs/2307.12136)  | First |  IJCAI 2023 Workshop  |
+| [Using Reinforcement Learning for the Three-Dimensional Loading Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2307.12136) (animation below) | First |  IJCAI 2023 Workshop  |
 
 Full Google Scholar publication list: [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmSaKaW0snOIpdKgQrC5kmuZJq7s2PKQi-A3BCJrSnTSLFb7QjmonS9IP91m64vXgXfBFcc0-MKYV78R3_jmTrb-&user=GTvLmf0AAAAJ&inst=6810896796868835251)
   
