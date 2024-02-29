@@ -10,7 +10,7 @@ Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www
 | Visual | Title  | Authorship | Venue |
 |-------------| ------------- | ------------- |  ------------- |
 |<img width="927" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/88682197-e65b-42d7-a412-a08a27cf6428"> | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707)  | Equal Contrib.  |  AAAI 2024  |
-|| (accepted; to be linked after camera-ready version) | Equal Contrib.  |  ICLR Tiny Paper 2024  |
+|<img width="1298" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/14d4c3bf-c3ab-4a09-bfef-1ccdd29edb8e"> | Loss-Free Machine Unlearning  | Equal Contrib.  |  ICLR 2024 Tiny Paper  |
 |<img width="927" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/ea828aa6-6f2f-4ba6-8cdf-94c249d3fe93"> | [Parameter-Tuning-Free Data Entry Error Unlearning with Adaptive Selective Synaptic Dampening](https://arxiv.org/abs/2402.10098)  | First |  Preprint  |
 |<img width="927" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/c1ca4cf1-f918-4a6b-ae66-9d5cb2ebcf79">| [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://browse.arxiv.org/abs/2402.01401)  | 3rd |  Preprint  |
 | <img width="927" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/5cec3479-552a-4355-8b82-463f547d41a7">| [Identifying contributors to manufacturing outcomes in a multi-echelon setting: a decentralised uncertainty quantification approach](https://arxiv.org/abs/2307.12157)  | First |  ECML PKDD 2023 Workshop  |
