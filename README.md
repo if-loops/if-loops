@@ -18,4 +18,4 @@ Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www
 
 Full Google Scholar publication list: [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmSaKaW0snOIpdKgQrC5kmuZJq7s2PKQi-A3BCJrSnTSLFb7QjmonS9IP91m64vXgXfBFcc0-MKYV78R3_jmTrb-&user=GTvLmf0AAAAJ&inst=6810896796868835251)
 
-[![](https://visitcount.itsvg.in/api?id=if-loops&label=Profile%20views%20past%207%20days&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=if-loops&label=Profile%20views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
