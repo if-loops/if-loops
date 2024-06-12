@@ -3,7 +3,7 @@
 - 2nd year PhD candidate at [Univ. of Cambridge](https://www.c2d3.cam.ac.uk/directory/27081/mr-stefan-schoepf) focusing on Machine Unlearning & Cooperative AI
 - Prev. associate at [BCG](https://www.bcg.com/) and co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup
 
-Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/schoepfstefan/)
+Full CV:  [LinkedIn](https://www.linkedin.com/in/schoepfstefan/)
 
 ### Recent Publications (non-exhaustive)
 
