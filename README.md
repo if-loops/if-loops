@@ -1,6 +1,7 @@
 ### CV at a glance 
 
-- 2nd year PhD candidate at [Univ. of Cambridge](https://www.c2d3.cam.ac.uk/directory/27081/mr-stefan-schoepf) focusing on Machine Unlearning & Cooperative AI
+- 2nd year PhD candidate at [Univ. of Cambridge](https://www.c2d3.cam.ac.uk/directory/27081/mr-stefan-schoepf) focusing on Machine Unlearning
+- Currently interning at [IBM Research](https://research.ibm.com/) in the AI Security and Privacy team
 - Prev. associate at [BCG](https://www.bcg.com/) and co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup
 
 Full CV:  [LinkedIn](https://www.linkedin.com/in/schoepfstefan/)
