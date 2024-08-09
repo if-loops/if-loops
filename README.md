@@ -23,8 +23,11 @@ Full Google Scholar publication list: [Google Scholar](https://scholar.google.co
 
 ### A tiny thing I made to make Google Scholar better:
 
-->[Author highlighter](https://chromewebstore.google.com/detail/scholar-profile-highlight/hjhkodkpmiekcnnjkppeinmienganein)
-![scholar](https://github.com/if-loops/if-loops/assets/47212405/c99d5661-162f-442b-b46b-f5b450a69df9)
+| Visual | Link  |
+|-------------| ------------- | 
+| ![scholar](https://github.com/if-loops/if-loops/assets/47212405/c99d5661-162f-442b-b46b-f5b450a69df9) | [Author highlighter](https://chromewebstore.google.com/detail/scholar-profile-highlight/hjhkodkpmiekcnnjkppeinmienganein)  |
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=if-loops&label=Profile%20views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
