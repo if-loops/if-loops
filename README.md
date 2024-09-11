@@ -11,7 +11,7 @@ Full CV:  [LinkedIn](https://www.linkedin.com/in/schoepfstefan/)
 #### Machine Unlearning
 | Visual | Title  | Authorship | Venue |
 |-------------| ------------- | ------------- |  ------------- |
-| ![poison_wide](https://github.com/if-loops/if-loops/assets/47212405/c8738b00-4115-471f-be84-6d0ce2468b11) | [Potion: Towards Poison Unlearning](https://arxiv.org/abs/2406.09173)  | First  |  Preprint  |
+| ![poison_wide](https://github.com/if-loops/if-loops/assets/47212405/c8738b00-4115-471f-be84-6d0ce2468b11) | [Potion: Towards Poison Unlearning](https://arxiv.org/abs/2406.09173)  | First  |  Journal of Data-Centric Machine Learning Research (DMLR)  |
 |<img width="927" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/88682197-e65b-42d7-a412-a08a27cf6428"> | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707)  | Equal Contrib.  |  AAAI 2024  |
 |<img width="1298" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/14d4c3bf-c3ab-4a09-bfef-1ccdd29edb8e"> | [Loss-Free Machine Unlearning](https://arxiv.org/abs/2402.19308)  | Equal Contrib.  |  ICLR 2024 Tiny Paper  |
 |<img width="927" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/ea828aa6-6f2f-4ba6-8cdf-94c249d3fe93"> | [Parameter-Tuning-Free Data Entry Error Unlearning with Adaptive Selective Synaptic Dampening](https://arxiv.org/abs/2402.10098)  | First |  Preprint  |
