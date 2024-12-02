@@ -6,6 +6,8 @@
 
 Full CV:  [LinkedIn](https://www.linkedin.com/in/schoepfstefan/)
 
+Google Scholar: [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmSaKaW0snOIpdKgQrC5kmuZJq7s2PKQi-A3BCJrSnTSLFb7QjmonS9IP91m64vXgXfBFcc0-MKYV78R3_jmTrb-&user=GTvLmf0AAAAJ&inst=6810896796868835251)
+
 ### Recent Publications (non-exhaustive)
 
 #### Machine Unlearning
@@ -22,9 +24,6 @@ Full CV:  [LinkedIn](https://www.linkedin.com/in/schoepfstefan/)
 |-------------| ------------- | ------------- |  ------------- |
 | <img width="863" alt="Screenshot 2024-08-16 at 14 56 29" src="https://github.com/user-attachments/assets/fa86cb81-80af-42dc-8ad3-1bf5b933549f"> | [Identifying contributors to manufacturing outcomes in a multi-echelon setting: a decentralised uncertainty quantification approach](https://ieeexplore.ieee.org/document/10637294)  | First |  IEEE Transactions on Industrial Informatics  |
 |![packing](https://github.com/if-loops/if-loops/assets/47212405/15fbd79a-4a97-4113-a598-0bd7155541c2)| [Using Reinforcement Learning for the Three-Dimensional Loading Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2307.12136) | First |  IJCAI 2023 Workshop  |
-
-Full Google Scholar publication list: [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AMpAcmSaKaW0snOIpdKgQrC5kmuZJq7s2PKQi-A3BCJrSnTSLFb7QjmonS9IP91m64vXgXfBFcc0-MKYV78R3_jmTrb-&user=GTvLmf0AAAAJ&inst=6810896796868835251)
-
 
 ### A tiny thing I made to make Google Scholar better:
 
