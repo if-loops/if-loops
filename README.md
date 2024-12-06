@@ -30,6 +30,8 @@ I work on making machine learning models forget undesired data without having to
 |<img width="1298" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/14d4c3bf-c3ab-4a09-bfef-1ccdd29edb8e"> | [Loss-Free Machine Unlearning](https://arxiv.org/abs/2402.19308)  | Equal Contrib.  |  ICLR 2024 Tiny Paper  |
 |<img width="927" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/ea828aa6-6f2f-4ba6-8cdf-94c249d3fe93"> | [Parameter-Tuning-Free Data Entry Error Unlearning with Adaptive Selective Synaptic Dampening](https://arxiv.org/abs/2402.10098)  | First |  Preprint  |
 |<img width="927" alt="image" src="https://github.com/if-loops/if-loops/assets/47212405/c1ca4cf1-f918-4a6b-ae66-9d5cb2ebcf79">| [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://browse.arxiv.org/abs/2402.01401)  | 3rd |  Preprint  |
+|<img width="1223" alt="image" src="https://github.com/user-attachments/assets/a4d06a92-ace3-4fc6-a9c3-9b871ab2d141">| [Learning to Forget using Hypernetworks](https://arxiv.org/pdf/2412.00761)  | Co-supervised |  NeurIPS 2024 Workshop  |
+|<img width="1544" alt="image" src="https://github.com/user-attachments/assets/f943c7ed-5590-4002-ac68-0bd9f7d14d89">| [CONDA: Fast Federated Unlearning with Contribution Dampening](https://arxiv.org/pdf/2410.04144)  | 4th |  Preprint  |
 </details>
 
 <details>
