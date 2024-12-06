@@ -19,6 +19,8 @@ I work on making machine learning models forget undesired data without having to
 
 <br/>
 <hr/>
+
+### Research
 <details>
   <summary><b>🪄: &nbsp;Machine Unlearning Papers</b></summary>
   <br/>
@@ -48,16 +50,28 @@ I work on making machine learning models forget undesired data without having to
 
 </details>
 
+<hr/>  
+
+### Off-topic
 <details>
   <summary><b>🖋️: &nbsp;A tiny thing I made to make Google Scholar better</b></summary>
   <br/>
 
-  [Author highlighter](https://chromewebstore.google.com/detail/scholar-profile-highlight/hjhkodkpmiekcnnjkppeinmienganein)
+  ➡️ [Author highlighter](https://chromewebstore.google.com/detail/scholar-profile-highlight/hjhkodkpmiekcnnjkppeinmienganein)
+  
+   <br/>
+   
  ![scholar](https://github.com/if-loops/if-loops/assets/47212405/c99d5661-162f-442b-b46b-f5b450a69df9) 
 
 
 </details>
-<hr/>  
 
+
+<details>
+  <summary><b>🎥: &nbsp;Livestream of me working</b></summary>
+  <br/>
+  
+![cat](https://github.com/user-attachments/assets/a3edeb6e-5216-4953-8d25-8d053513d041)
+</details>
 
 <br/>
