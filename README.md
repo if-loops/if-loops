@@ -5,13 +5,22 @@
 - Prev. Associate at [BCG](https://www.bcg.com/) and co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup
 
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schoepfstefan/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GTvLmf0AAAAJ&hl=en&inst=6810896796868835251)
+[![](https://visitcount.itsvg.in/api?id=if-loops&label=Profile%20views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<hr/>
 
+### Machine Unlearning
+
+I work on making machine learning models forget undesired data without having to retrain the whole model ($$$). This can be privacy infringing, copyrighted, erroneous, poisoned, outdated or otherwise problematic data.
+
+![unlearning_explain (1)](https://github.com/user-attachments/assets/f6350853-48de-4c1e-8517-ba35b3b51e2c)
 
 
 <br/>
 <hr/>
 <details>
-  <summary><b>📖: &nbsp;Recent Machine Unlearning Publications </b></summary>
+  <summary><b>🪄: &nbsp;Machine Unlearning Papers</b></summary>
   <br/>
 
 | Visual | Title  | Authorship | Venue |
@@ -24,7 +33,7 @@
 </details>
 
 <details>
-  <summary><b>🤖: &nbsp;Other papers (Red Teaming, Agentic LLMs, and more) </b></summary>
+  <summary><b>📖: &nbsp;Other Research (Red Teaming, Agentic LLMs, and more) </b></summary>
   <br/>
   
 
@@ -48,7 +57,3 @@
 
 
 <br/>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schoepfstefan/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GTvLmf0AAAAJ&hl=en&inst=6810896796868835251)
-[![](https://visitcount.itsvg.in/api?id=if-loops&label=Profile%20views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
