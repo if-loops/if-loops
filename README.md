@@ -66,12 +66,3 @@ I work on making machine learning models forget undesired data without having to
 
 </details>
 
-
-<details>
-  <summary><b>🎥: &nbsp;Livestream of me working</b></summary>
-  <br/>
-  
-![cat](https://github.com/user-attachments/assets/a3edeb6e-5216-4953-8d25-8d053513d041)
-</details>
-
-<br/>
