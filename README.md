@@ -4,7 +4,7 @@
   - Currently interning as Student Researcher at [Google DeepMind](https://deepmind.google/) (🇬🇧)
   - Prev. AI Security & Privacy Research Intern at [IBM Research](https://research.ibm.com/) (🇮🇪)
 - Pre-PhD experience:
-  - Associate at [Boston Consulting Group( BCG)](https://www.bcg.com/) (🇨🇭)
+  - Associate at [Boston Consulting Group (BCG)](https://www.bcg.com/) (🇨🇭)
   - Co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup (🇦🇹)
 
 
