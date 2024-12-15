@@ -1,8 +1,11 @@
 ### CV at a glance 
 
 - Final year PhD candidate at [Univ. of Cambridge](https://www.c2d3.cam.ac.uk/directory/27081/mr-stefan-schoepf) focusing on Machine Unlearning
-- Prev. AI Security and Privacy Research Intern at [IBM Research](https://research.ibm.com/)
-- Prev. Associate at [BCG](https://www.bcg.com/) and co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup
+  - Currently interning as Student Researcher at [Google DeepMind](https://deepmind.google/) (🇬🇧)
+  - Prev. AI Security & Privacy Research Intern at [IBM Research](https://research.ibm.com/) (🇮🇪)
+- Pre-PhD experience:
+  - Associate at [Boston Consulting Group( BCG)](https://www.bcg.com/) (🇨🇭)
+  - Co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup (🇦🇹)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schoepfstefan/)
