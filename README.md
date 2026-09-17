@@ -1,9 +1,9 @@
 ### CV at a glance 
-
-- Final year PhD candidate at [Univ. of Cambridge](https://www.c2d3.cam.ac.uk/directory/27081/mr-stefan-schoepf) (🇬🇧)
-- PhD internships:
-  - Student Researcher at [Google DeepMind](https://deepmind.google/) (🇬🇧)
-  - AI Security & Privacy Research Intern at [IBM Research](https://research.ibm.com/) (🇮🇪)
+- AI/ML Quant at a multi-billion USD global macro hedge fund (🇬🇧)
+- AI/ML PhD from Cambridge with thesis "(Un)learning to handle sensitive and corrupted data in machine learning models" (🇬🇧)
+  - 500+ citations and 10+ h-index by end of PhD
+  - PhD Internship: Student Researcher at [Google DeepMind](https://deepmind.google/) (🇬🇧)
+  - PhD Internship: AI Security & Privacy Research Intern at [IBM Research](https://research.ibm.com/) (🇮🇪)
 - Pre-PhD experience:
   - Associate at [Boston Consulting Group (BCG)](https://www.bcg.com/) (🇨🇭)
   - Co-founder of an [ESA BIC](https://commercialisation.esa.int/startups/audili-og/) funded deep tech startup (🇦🇹)
@@ -16,7 +16,7 @@
 
 ### Machine Unlearning
 
-I work on making machine learning models forget undesired data without having to retrain the whole model ($$$). This can be privacy infringing, copyrighted, erroneous, poisoned, outdated or otherwise problematic data.
+I did my PhD research on making machine learning models forget undesired data without having to retrain the whole model ($$$). This can be privacy infringing, copyrighted, erroneous, poisoned, market moving, outdated or otherwise problematic data.
 
 ![unlearning_explain (1)](https://github.com/user-attachments/assets/f6350853-48de-4c1e-8517-ba35b3b51e2c)
 
